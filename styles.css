@@ -23,3 +23,30 @@
   font-size:20px;
   font-weight:700;
 }
+.whatsapp-link strong,
+.email-link strong{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+
+.whatsapp-icon{
+  display:inline-grid;
+  place-items:center;
+  width:28px;
+  height:28px;
+  border-radius:50%;
+  background:#25D366;
+  color:white;
+  font-size:18px;
+}
+.email-icon{
+  display:inline-grid;
+  place-items:center;
+  width:28px;
+  height:28px;
+  border-radius:50%;
+  background:#b99a54;
+  color:white;
+  font-size:16px;
+}
