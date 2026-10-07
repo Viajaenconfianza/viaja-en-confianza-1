@@ -38,7 +38,9 @@
   border-radius:50%;
   background:#25D366;
   color:white;
-  font-size:18px;
+  font-family:Arial,sans-serif;
+  font-size:17px;
+  font-weight:700;
 }
 .email-icon{
   display:inline-grid;
