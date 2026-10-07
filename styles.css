@@ -77,3 +77,12 @@
   color:#ffffff !important;
   font-size:16px;
 }
+.wa{
+  font-family:Arial,sans-serif;
+  font-weight:700;
+  font-size:20px;
+  background:#25D366 !important;
+  color:#ffffff !important;
+  border:3px solid #ffffff;
+  box-shadow:0 4px 14px #0003;
+}
