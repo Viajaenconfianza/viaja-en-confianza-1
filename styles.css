@@ -52,3 +52,28 @@
   color:white;
   font-size:16px;
 }
+.whatsapp-link .whatsapp-icon{
+  display:inline-flex !important;
+  align-items:center;
+  justify-content:center;
+  width:28px !important;
+  height:28px !important;
+  border-radius:50%;
+  background:#25D366 !important;
+  color:#ffffff !important;
+  font-family:Arial,sans-serif;
+  font-size:17px;
+  font-weight:700;
+}
+
+.email-link .email-icon{
+  display:inline-flex !important;
+  align-items:center;
+  justify-content:center;
+  width:28px !important;
+  height:28px !important;
+  border-radius:50%;
+  background:#b99a54 !important;
+  color:#ffffff !important;
+  font-size:16px;
+}
