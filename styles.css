@@ -123,3 +123,8 @@
   width:150px;
   height:auto;
 }
+.footer .logo img {
+display: block;
+width: 150px;
+height: auto;
+}
