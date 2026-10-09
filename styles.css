@@ -113,3 +113,8 @@
   font-size:22px;
   color:#25D366;
 }
+.header .logo img{
+  display:block;
+  width:150px;
+  height:auto;
+}
